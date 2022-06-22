@@ -61,4 +61,5 @@
     right: 10px;
     font-size: 70px;
     font-family: Pixel;
+    z-index: 100;
 }
